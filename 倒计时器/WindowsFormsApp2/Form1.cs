@@ -67,7 +67,7 @@ namespace WindowsFormsApp2
             {
                 timer1.Stop();
                 System.Media.SystemSounds.Asterisk.Play();  //
-                MessageBox.Show("Over", "提示");   //放在最后，系统提示时属于中断
+                MessageBox.Show("Over", "提示信息");   //放在最后，系统提示时属于中断
 
             }
         }
@@ -101,25 +101,5 @@ namespace WindowsFormsApp2
            
         }
 
-        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            int i;
-
-            
-        }
-        private void comboBox2_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            int i;
-
-            
-        }
-
-        private void comboBox3_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-            int i;
-
-          
-        }
     }
 }

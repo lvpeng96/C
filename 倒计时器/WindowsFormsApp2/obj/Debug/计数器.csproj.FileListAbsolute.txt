@@ -17,3 +17,13 @@ E:\CODESPACE\C#Sample\C\倒计时器\WindowsFormsApp2\bin\Debug\倒计时器.pdb
 E:\CODESPACE\C#Sample\C\倒计时器\WindowsFormsApp2\obj\Debug\Code.Properties.Resources.resources
 E:\CODESPACE\C#Sample\C\倒计时器\WindowsFormsApp2\obj\Debug\倒计时器.exe
 E:\CODESPACE\C#Sample\C\倒计时器\WindowsFormsApp2\obj\Debug\倒计时器.pdb
+E:\GITHUB\lvpeng96\C\倒计时器\WindowsFormsApp2\obj\Debug\计数器.csprojAssemblyReference.cache
+E:\GITHUB\lvpeng96\C\倒计时器\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+E:\GITHUB\lvpeng96\C\倒计时器\WindowsFormsApp2\obj\Debug\Code.Properties.Resources.resources
+E:\GITHUB\lvpeng96\C\倒计时器\WindowsFormsApp2\obj\Debug\计数器.csproj.GenerateResource.cache
+E:\GITHUB\lvpeng96\C\倒计时器\WindowsFormsApp2\obj\Debug\计数器.csproj.CoreCompileInputs.cache
+E:\GITHUB\lvpeng96\C\倒计时器\WindowsFormsApp2\obj\Debug\倒计时器.exe
+E:\GITHUB\lvpeng96\C\倒计时器\WindowsFormsApp2\obj\Debug\倒计时器.pdb
+E:\GITHUB\lvpeng96\C\倒计时器\WindowsFormsApp2\bin\Debug\倒计时器.exe.config
+E:\GITHUB\lvpeng96\C\倒计时器\WindowsFormsApp2\bin\Debug\倒计时器.exe
+E:\GITHUB\lvpeng96\C\倒计时器\WindowsFormsApp2\bin\Debug\倒计时器.pdb
